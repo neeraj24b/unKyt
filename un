@@ -1,0 +1,5 @@
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+
+Caused by: java.io.EOFException: SSL peer shut down incorrectly
+
+600+21+5 G-3 Pro whole One in 1 hew sew 
