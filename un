@@ -3,3 +3,8 @@ javax.net.ssl.SSLHandshakeException: Remote host closed connection during handsh
 Caused by: java.io.EOFException: SSL peer shut down incorrectly
 
 600+21+5 G-3 Pro whole One in 1 hew sew 
+
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+java.io.IOException: Server returned HTTP response code: 405 for URL: https://untrusted-root.badssl.com/
+
